@@ -9,7 +9,7 @@
 # 𝚃𝙷𝙴 Light Bringer
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
+. Supported by respective . Join for update related info channel and group :- https://t.me/The_Light_bring_er THANKS FOR VISITING OUR REPO💖
 [![THE LIGHT BRINGER](https://telegra.ph/file/51f6431dd1530bd7e90c0.jpg)](https://t.me/The_Light_bring_er)
 
 
